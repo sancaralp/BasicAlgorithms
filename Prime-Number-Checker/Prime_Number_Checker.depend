@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647029996 source:c:\users\sanca\c\prime_number_checker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
